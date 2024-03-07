@@ -5,7 +5,7 @@
 }
 
 body{
-    font-display: flex;
+    font-display: center;
     align-items: center;
     justify-content: center;
     width: 100%;
@@ -14,11 +14,8 @@ body{
 }
 .container{
     width: 80%;
-    display: flex;
+    display: center;
     align-items: center;
-    gap: 3.5rem;
-    margin-left: 18rem;
-    margin-top: 8rem;
 }
 
 
